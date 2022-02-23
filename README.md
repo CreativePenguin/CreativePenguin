@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on University At Buffalo classes Algorithms, and Computer Organizations.
 <!--
 **CreativePenguin/CreativePenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
